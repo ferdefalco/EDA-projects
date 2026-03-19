@@ -9,3 +9,6 @@
 
 <b>3. IMDB Movies</b>
 > imdb-sqlite. Imports IMDB TSV files into a SQLite database
+
+<b>4. Coffee Quality</b>
+> https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi
